@@ -47,6 +47,7 @@ python manage.py runserver
 Open:
 - `http://127.0.0.1:8000/` (landing)
 - `http://127.0.0.1:8000/auth/` (login)
+- `http://127.0.0.1:8000/admin/` (admin)  (admin:admin)
 - `http://127.0.0.1:8000/dashboard/` (dashboard)
 
 Optional:
