@@ -2,7 +2,7 @@
 
 Anbargar is a full-stack inventory and warehouse management system built with Django. It is designed for small to mid-sized businesses that need a fast, RTL-friendly workflow to track stock, customers, and sales events without the pain of spreadsheets.
 
-## Resume Highlights
+## Highlights of this project
 - Designed a relational inventory schema with event-based stock movements (BUY/SELL/MOVE) and inventory rollups.
 - Built a token-secured REST API used by a rich dashboard UI with CRUD flows and live stats.
 - Implemented low-stock monitoring and a simple stockout prediction model based on recent sales.
