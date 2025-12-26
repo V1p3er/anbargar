@@ -17,8 +17,3 @@ ENV/
 # OS/editor
 .DS_Store
 Thumbs.db
-
-# Project-specific
-AGENTS.md
-db.sqlite3
-.gitignore
