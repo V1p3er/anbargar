@@ -21,3 +21,4 @@ Thumbs.db
 # Project-specific
 AGENTS.md
 db.sqlite3
+.gitignore
